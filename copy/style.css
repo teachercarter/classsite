@@ -1,0 +1,41 @@
+.titles {
+    background-color:rgb(254, 237, 195);
+    border: 5px solid rgb(254, 237, 195);
+    text-align: center; 
+}
+
+.navbar{
+    background-color: rgb(176, 195, 248);
+    width: 300px;
+    padding: 10px;
+    height: 20px; 
+    text-align: center; 
+}
+.navbar:hover {
+    background-color: #111;
+  }
+
+lu {
+    list-style:none;
+    
+}
+
+il{
+    border: 1px solid blue;
+	display: inline;
+    margin: 20px;
+    float: right;
+}
+
+#firstsubTitle{
+    font-style: italic;
+}
+
+.fixingnav{
+    display: inline;
+    margin-left: 570px;
+    background-color: rgb(176, 195, 248);
+    width: 225px;
+    padding: 10px;
+    height: 20px; 
+}
